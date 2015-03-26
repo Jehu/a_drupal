@@ -11,6 +11,8 @@ defaults[projects][subdir] = contrib
 ; Platform indicator module.
 projects[platform][version] = 1.3
 projects[]= adminimal_theme
+projects[]= admin_menu
+projects[]= module_filter
 projects[]= gesso
 projects[]= mothership
 projects[]= adminimal_admin_menu
@@ -59,3 +61,8 @@ projects[]= reroute_email
 projects[]= shield
 projects[]= strongarm
 projects[]= features
+projects[]= entity
+projects[]= ctools
+projects[]= elements
+projects[]= variable
+projects[]= token
