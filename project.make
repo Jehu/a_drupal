@@ -42,7 +42,6 @@ projects[]= pathologic
 projects[]= metatag
 projects[]= rabbit_hole
 projects[]= redirect
-projects[]= strongarm
 projects[]= extlink
 projects[]= wysiwyg
 projects[]= markdown
